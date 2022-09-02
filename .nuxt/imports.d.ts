@@ -1,0 +1,14 @@
+export { useHead, useMeta } from '#head';
+export { isVue2, isVue3 } from 'vue-demi';
+export { useAsyncData, useLazyAsyncData, refreshNuxtData, defineNuxtComponent, useNuxtApp, defineNuxtPlugin, useRuntimeConfig, useState, useFetch, useLazyFetch, useCookie, useRequestHeaders, useRequestEvent, useRouter, useRoute, useActiveRoute, defineNuxtRouteMiddleware, navigateTo, abortNavigation, addRouteMiddleware, throwError, clearError, useError, defineNuxtLink } from '#app';
+export { withCtx, withDirectives, withKeys, withMemo, withModifiers, withScopeId, onActivated, onBeforeMount, onBeforeUnmount, onBeforeUpdate, onDeactivated, onErrorCaptured, onMounted, onRenderTracked, onRenderTriggered, onServerPrefetch, onUnmounted, onUpdated, computed, customRef, isProxy, isReactive, isReadonly, isRef, markRaw, proxyRefs, reactive, readonly, ref, shallowReactive, shallowReadonly, shallowRef, toRaw, toRef, toRefs, triggerRef, unref, watch, watchEffect, isShallow, effect, effectScope, getCurrentScope, onScopeDispose, defineComponent, defineAsyncComponent, resolveComponent, getCurrentInstance, h, inject, nextTick, provide, useAttrs, useCssModule, useCssVars, useSlots, useTransitionState } from 'vue';
+export { useStrapi3 } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi3';
+export { useStrapi4 } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi4';
+export { useStrapiAuth } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth';
+export { useStrapiClient } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient';
+export { useStrapiGraphQL } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiGraphQL';
+export { useStrapiToken } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiToken';
+export { useStrapiUrl } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiUrl';
+export { useStrapiUser } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiUser';
+export { useStrapiVersion } from '/home/flo/Work_Documents/test/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion';
+export { definePageMeta } from '/home/flo/Work_Documents/test/node_modules/nuxt/dist/pages/runtime/composables';
