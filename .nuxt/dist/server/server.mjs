@@ -1,34 +1,34 @@
 
 // --------------------
-// Request: /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry
+// Request: /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry
 // Parents: 
 // - <entry> ($id_x1frnpf8FZ)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // - ohmyfetch ($id_4T3an2dV6G)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/paths.mjs ($id_5Zzs6mQAId)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/paths.mjs ($id_1QCbr5bKbS)
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/css.mjs ($id_kC6gh1FMPV)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/root-component.mjs ($id_PfRsoNIznX)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/app-component.mjs ($id_X3gUWCYYIz)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/css.mjs ($id_lZyvKO6xhk)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/root-component.mjs ($id_k5ehyqAIjR)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/app-component.mjs ($id_nxELoypgo8)
 // --------------------
-const $id_52C7auhiEo = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_RjrqmozA7T = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("ohmyfetch");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/paths.mjs");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/paths.mjs");
 
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/index.mjs");
 
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/css.mjs");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/css.mjs");
 
-const __vite_ssr_import_5__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs");
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs");
 
-const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/root-component.mjs");
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/root-component.mjs");
 
-const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/app-component.mjs");
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/app-component.mjs");
 
 if (!globalThis.$fetch) {
   globalThis.$fetch = __vite_ssr_import_1__.$fetch.create({
@@ -93,7 +93,7 @@ __vite_ssr_exports__.default = (ctx) => entry(ctx);
 // --------------------
 // Request: vue
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // - /node_modules/nuxt/dist/app/nuxt.mjs ($id_4GnUEZ7ifE)
 // - /node_modules/nuxt/dist/app/composables/component.mjs ($id_UzRZUO1GKq)
 // - /node_modules/nuxt/dist/app/composables/asyncData.mjs ($id_1baiIWALJh)
@@ -103,7 +103,7 @@ __vite_ssr_exports__.default = (ctx) => entry(ctx);
 // - /node_modules/nuxt/dist/app/composables/cookie.mjs ($id_URtEHTJ6vX)
 // - /node_modules/nuxt/dist/app/components/nuxt-link.mjs ($id_6yHtfHy3cx)
 // - /node_modules/nuxt/dist/head/runtime/composables.mjs ($id_BOqVBAGCOv)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/components.plugin.mjs ($id_IKVmZkRUUd)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/components.plugin.mjs ($id_z0P5LgHVh4)
 // - /node_modules/@vueuse/head/dist/index.mjs ($id_wDImTp8t2G)
 // - /node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin.mjs ($id_5vEgA2Fgrh)
 // - /node_modules/nuxt/dist/head/runtime/plugin.mjs ($id_omUDQe4IGe)
@@ -116,13 +116,13 @@ __vite_ssr_exports__.default = (ctx) => entry(ctx);
 // - /pages/index.vue ($id_zKWOlz8EPO)
 // - /node_modules/nuxt/dist/app/components/nuxt-root.vue ($id_6btoGdWLJh)
 // - /node_modules/nuxt/dist/app/compat/capi.mjs ($id_DFcXpE295m)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-404.vue ($id_uQ1ND2iuUo)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue ($id_FMi1dBhUQk)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue ($id_vC10oUHchO)
 // - /node_modules/nuxt/dist/app/components/nuxt-error-page.vue ($id_jMbXP0vyaY)
 // - /node_modules/nuxt/dist/app/components/layout.mjs ($id_OQA4gz7rLc)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/layouts.mjs ($id_Rnw1uohNaG)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/layouts.mjs ($id_UqMgsXHyfa)
 // - /node_modules/nuxt/dist/pages/runtime/app.vue ($id_bGEBDyzLuq)
 // Dependencies: 
 // - @vue/runtime-dom ($id_xcKel6nH2q)
@@ -181,7 +181,7 @@ import("@vue/runtime-dom")
 // --------------------
 // Request: ohmyfetch
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 
 // --------------------
@@ -200,13 +200,13 @@ import("ohmyfetch")
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/paths.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/paths.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 // - ufo ($id_Idgm3MW7hZ)
 // --------------------
-const $id_9P4yIL1ChM = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_jYVB720M0N = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("ufo");
 
 const appConfig = {"baseURL":"/","buildAssetsDir":"/_nuxt/","assetsPath":{},"cdnURL":"","head":{"meta":[],"link":[],"style":[],"script":[],"noscript":[],"charset":"utf-8","viewport":"width=device-width, initial-scale=1"}}
@@ -227,7 +227,7 @@ Object.defineProperty(__vite_ssr_exports__, "publicAssetsURL", { enumerable: tru
 // --------------------
 // Request: ufo
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/paths.mjs ($id_5Zzs6mQAId)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/paths.mjs ($id_1QCbr5bKbS)
 // - /node_modules/nuxt/dist/app/composables/router.mjs ($id_202QqPjMtu)
 // - /node_modules/nuxt/dist/app/components/nuxt-link.mjs ($id_6yHtfHy3cx)
 // - /node_modules/nuxt/dist/pages/runtime/router.mjs ($id_oJCXe6nyyh)
@@ -251,7 +251,7 @@ import("ufo")
 // --------------------
 // Request: /node_modules/nuxt/dist/app/index.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // - /node_modules/nuxt/dist/app/composables/asyncData.mjs ($id_1baiIWALJh)
 // - /node_modules/nuxt/dist/app/composables/hydrate.mjs ($id_AGPfGxS2fu)
 // - /node_modules/nuxt/dist/app/composables/state.mjs ($id_fYchCJb7XZ)
@@ -274,7 +274,7 @@ import("ufo")
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiUrl.mjs ($id_9GyGzo2V6V)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion.mjs ($id_v6gKR9sKcp)
 // - /node_modules/nuxt/dist/app/components/nuxt-root.vue ($id_6btoGdWLJh)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiGraphQL.mjs ($id_wvuejfrVt5)
 // - /node_modules/nuxt/dist/app/components/layout.mjs ($id_OQA4gz7rLc)
 // Dependencies: 
@@ -1527,7 +1527,7 @@ __vite_ssr_exports__.default = defineNuxtLink({ componentName: "NuxtLink" });
 // Request: /node_modules/nuxt/dist/head/runtime/index.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/head/runtime/composables.mjs ($id_BOqVBAGCOv)
 // --------------------
@@ -1591,33 +1591,33 @@ import("@vue/shared")
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/css.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/css.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 
 // --------------------
-const $id_XhhNrlM6Jy = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_7QP1cPKZk9 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 /* empty */;
 }
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/plugins/preload.server.mjs ($id_mHG7oNEQOP)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/components.plugin.mjs ($id_IKVmZkRUUd)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/components.plugin.mjs ($id_z0P5LgHVh4)
 // - /node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin.mjs ($id_5vEgA2Fgrh)
 // - /node_modules/nuxt/dist/head/runtime/plugin.mjs ($id_omUDQe4IGe)
 // - /node_modules/nuxt/dist/pages/runtime/router.mjs ($id_oJCXe6nyyh)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/strapi.plugin.mjs ($id_ewqmcZbdJ2)
 // --------------------
-const $id_Jw7bPEK54q = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_oLk4UAt4Cp = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/plugins/preload.server.mjs");
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/components.plugin.mjs");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/components.plugin.mjs");
 
 const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin.mjs");
 
@@ -1641,7 +1641,7 @@ __vite_ssr_exports__.default = [
 // --------------------
 // Request: /node_modules/nuxt/dist/app/plugins/preload.server.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // --------------------
@@ -1662,13 +1662,13 @@ __vite_ssr_exports__.default = __vite_ssr_import_0__.defineNuxtPlugin((nuxtApp) 
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/components.plugin.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/components.plugin.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // --------------------
-const $id_hyT9JOZJMT = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_PEPUVnSYRO = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 
@@ -1687,7 +1687,7 @@ __vite_ssr_exports__.default = function (nuxtApp) {
 // --------------------
 // Request: /node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - /node_modules/@vueuse/head/dist/index.mjs ($id_wDImTp8t2G)
 // - vue ($id_VkOCJnUZrn)
@@ -2265,15 +2265,15 @@ import("defu")
 // --------------------
 // Request: /node_modules/nuxt/dist/head/runtime/plugin.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // - /node_modules/nuxt/dist/head/runtime/components.mjs ($id_sqKdb79FW5)
 // - /node_modules/nuxt/dist/head/runtime/composables.mjs ($id_BOqVBAGCOv)
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/meta.config.mjs ($id_llw3PGILb4)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/meta.config.mjs ($id_DFHH1SjSjs)
 // --------------------
-const $id_SzUtwquwto = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_k4GW89mnC7 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt/dist/head/runtime/components.mjs");
@@ -2282,7 +2282,7 @@ const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/nuxt/dist
 
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/index.mjs");
 
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/meta.config.mjs");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/meta.config.mjs");
 
 const metaMixin = {
   created() {
@@ -2530,13 +2530,13 @@ Object.defineProperty(__vite_ssr_exports__, "Body", { enumerable: true, configur
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/meta.config.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/meta.config.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/head/runtime/plugin.mjs ($id_omUDQe4IGe)
 // Dependencies: 
 
 // --------------------
-const $id_ZEEplvQItC = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_ARtyt21oad = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 __vite_ssr_exports__.default = {"globalMeta":{"charset":"utf-8","viewport":"width=device-width, initial-scale=1","meta":[],"link":[],"style":[],"script":[],"noscript":[]}};
 }
 
@@ -2544,7 +2544,7 @@ __vite_ssr_exports__.default = {"globalMeta":{"charset":"utf-8","viewport":"widt
 // --------------------
 // Request: /node_modules/nuxt/dist/pages/runtime/router.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // - vue-router ($id_RGqOect6fq)
@@ -2552,11 +2552,11 @@ __vite_ssr_exports__.default = {"globalMeta":{"charset":"utf-8","viewport":"widt
 // - ufo ($id_Idgm3MW7hZ)
 // - /node_modules/nuxt/dist/pages/runtime/page.mjs ($id_X8FM3AG1sA)
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs ($id_A28YXjYyeW)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/router.options.mjs ($id_8s1hk3Anq2)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/middleware.mjs ($id_tQfsDD2UxJ)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs ($id_j4IEF3sjqX)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/router.options.mjs ($id_260QAsZxrE)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/middleware.mjs ($id_BWjCrUf2vU)
 // --------------------
-const $id_Qi54zgDfXl = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_soKT07ubtX = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("vue-router");
@@ -2569,11 +2569,11 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/nuxt/dist
 
 const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/index.mjs");
 
-const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs");
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs");
 
-const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/router.options.mjs");
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/router.options.mjs");
 
-const __vite_ssr_import_8__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/middleware.mjs");
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/middleware.mjs");
 
 function createCurrentLocation(base, location) {
   const { pathname, search, hash } = location;
@@ -2826,21 +2826,21 @@ Object.defineProperty(__vite_ssr_exports__, "_wrapIf", { enumerable: true, confi
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/pages/runtime/router.mjs ($id_oJCXe6nyyh)
 // Dependencies: 
 // - /pages/index.vue?macro=true ($id_XdcCQB7w7V)
 // - /pages/index.vue ($id_zKWOlz8EPO)
 // --------------------
-const $id_i2SFQ6naQq = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_IapHYfncPW = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/pages/index.vue?macro=true");
 
 __vite_ssr_exports__.default = [
   {
     name: "index",
     path: "/",
-    file: "/home/flo/Work_Documents/test/pages/index.vue",
+    file: "/home/flo/Work_Documents/NuxtStrapi_Bug/pages/index.vue",
     children: [],
     meta: __vite_ssr_import_0__.meta,
     alias: __vite_ssr_import_0__.meta?.alias || [],
@@ -2853,13 +2853,13 @@ __vite_ssr_exports__.default = [
 // --------------------
 // Request: /pages/index.vue?macro=true
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs ($id_A28YXjYyeW)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs ($id_j4IEF3sjqX)
 // Dependencies: 
 // - vue/server-renderer ($id_UyJffsox60)
 // - vue ($id_VkOCJnUZrn)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_xNkMWozWnK = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_w7ydKUaW9U = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const _sfc_main = {}
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue/server-renderer");
 
@@ -2879,7 +2879,7 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_2__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/test/pages/index.vue"]])
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_2__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/pages/index.vue"]])
 const meta = undefined
 Object.defineProperty(__vite_ssr_exports__, "meta", { enumerable: true, configurable: true, get(){ return meta }});;
 }
@@ -2943,13 +2943,13 @@ __vite_ssr_exports__.default = (sfc, props) => {
 // --------------------
 // Request: /pages/index.vue
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs ($id_A28YXjYyeW)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs ($id_j4IEF3sjqX)
 // Dependencies: 
 // - vue/server-renderer ($id_UyJffsox60)
 // - vue ($id_VkOCJnUZrn)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_GBlfE82LFM = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_XWLL4FY8gv = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const _sfc_main = {}
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue/server-renderer");
 
@@ -2969,18 +2969,18 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_2__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/test/pages/index.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_2__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/pages/index.vue"]]);
 }
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/router.options.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/router.options.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/pages/runtime/router.mjs ($id_oJCXe6nyyh)
 // Dependencies: 
 
 // --------------------
-const $id_PJkBqsNDva = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_Edk0ke7ys5 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const configRouterOptions = {}
 __vite_ssr_exports__.default = {
 ...configRouterOptions,
@@ -2989,13 +2989,13 @@ __vite_ssr_exports__.default = {
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/middleware.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/middleware.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/pages/runtime/router.mjs ($id_oJCXe6nyyh)
 // Dependencies: 
 
 // --------------------
-const $id_A1Os8YjnrK = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_cdXOK2DVKZ = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const globalMiddleware = []
 Object.defineProperty(__vite_ssr_exports__, "globalMiddleware", { enumerable: true, configurable: true, get(){ return globalMiddleware }});
 const namedMiddleware = {}
@@ -3006,7 +3006,7 @@ Object.defineProperty(__vite_ssr_exports__, "namedMiddleware", { enumerable: tru
 // --------------------
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/strapi.plugin.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs ($id_bWC1LqJCbl)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs ($id_WWxXaz6846)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs ($id_xXETftpGKs)
@@ -3028,7 +3028,7 @@ __vite_ssr_exports__.default = __vite_ssr_import_0__.defineNuxtPlugin(async () =
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs
 // Parents: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/strapi.plugin.mjs ($id_ewqmcZbdJ2)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiToken.mjs ($id_XHD0kSJ1u4)
@@ -3147,7 +3147,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapiAuth", { enumerable: true,
 // Parents: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs ($id_xXETftpGKs)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient.mjs ($id_qteyuqsnYu)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // --------------------
@@ -3174,7 +3174,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapiToken", { enumerable: true
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiUser.mjs
 // Parents: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs ($id_xXETftpGKs)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // --------------------
@@ -3193,7 +3193,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapiUser", { enumerable: true,
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs ($id_xXETftpGKs)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi3.mjs ($id_VQTYT7TaXT)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi4.mjs ($id_ejgU2wlOsT)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiGraphQL.mjs ($id_wvuejfrVt5)
 // Dependencies: 
 // - qs ($id_NRVz2NXQgB)
@@ -3293,7 +3293,7 @@ import("qs")
 // Parents: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient.mjs ($id_qteyuqsnYu)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs ($id_xXETftpGKs)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // --------------------
@@ -3316,7 +3316,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapiUrl", { enumerable: true, 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient.mjs ($id_qteyuqsnYu)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi3.mjs ($id_VQTYT7TaXT)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi4.mjs ($id_ejgU2wlOsT)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // --------------------
@@ -3333,13 +3333,13 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapiVersion", { enumerable: tr
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/root-component.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/root-component.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/components/nuxt-root.vue ($id_6btoGdWLJh)
 // --------------------
-const $id_6JQWwsAnXU = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_aZolk7j4oV = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/components/nuxt-root.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.default }});;
@@ -3349,21 +3349,21 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, confi
 // --------------------
 // Request: /node_modules/nuxt/dist/app/components/nuxt-root.vue
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/root-component.mjs ($id_PfRsoNIznX)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/root-component.mjs ($id_k5ehyqAIjR)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/error-component.mjs ($id_rLINUFMQy9)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/error-component.mjs ($id_vgddt8FYbV)
 // - vue/server-renderer ($id_UyJffsox60)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_kq9SzRoOzi = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_ycBX2alzjT = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/index.mjs");
 
 // @ts-ignore
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/error-component.mjs");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/error-component.mjs");
 
 
 
@@ -3427,18 +3427,18 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/components/nuxt-root.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/components/nuxt-root.vue"]]);
 }
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/error-component.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/error-component.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/app/components/nuxt-root.vue ($id_6btoGdWLJh)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/components/nuxt-error-page.vue ($id_jMbXP0vyaY)
 // --------------------
-const $id_TtWYE2xRYX = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_Kddk0Yq4Oy = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/components/nuxt-error-page.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.default }});;
@@ -3448,7 +3448,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, confi
 // --------------------
 // Request: /node_modules/nuxt/dist/app/components/nuxt-error-page.vue
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/error-component.mjs ($id_rLINUFMQy9)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/error-component.mjs ($id_vgddt8FYbV)
 // Dependencies: 
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-404.vue ($id_uQ1ND2iuUo)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue ($id_FMi1dBhUQk)
@@ -3457,7 +3457,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, confi
 // - vue/server-renderer ($id_UyJffsox60)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_LJXCDpm5fb = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_1ayhZK0BHQ = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue");
@@ -3533,7 +3533,7 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/components/nuxt-error-page.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/components/nuxt-error-page.vue"]]);
 }
 
 
@@ -3543,16 +3543,16 @@ __vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_m
 // - /node_modules/nuxt/dist/app/components/nuxt-error-page.vue ($id_jMbXP0vyaY)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/components/nuxt-link.mjs ($id_6yHtfHy3cx)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - vue ($id_VkOCJnUZrn)
 // - vue/server-renderer ($id_UyJffsox60)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=bc8852ab&lang.css ($id_UH106zs9IT)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_6MsfuGg6k8 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_D6GZ42wa5k = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/components/nuxt-link.mjs");
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs");
 
 
 const _sfc_main = {
@@ -3651,12 +3651,12 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-bc8852ab"],['__file',"/home/flo/Work_Documents/test/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-bc8852ab"],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"]]);
 }
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs
 // Parents: 
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-404.vue ($id_uQ1ND2iuUo)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue ($id_FMi1dBhUQk)
@@ -3677,7 +3677,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_6__.default(_sfc_m
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion.mjs ($id_v6gKR9sKcp)
 // - /node_modules/nuxt/dist/pages/runtime/composables.mjs ($id_27UVWcb1VH)
 // --------------------
-const $id_mKTBADzwdi = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_XMrHFNO4RS = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/head/runtime/index.mjs");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/compat/vue-demi.mjs");
@@ -3835,7 +3835,7 @@ Object.defineProperty(__vite_ssr_exports__, "definePageMeta", { enumerable: true
 // --------------------
 // Request: /node_modules/nuxt/dist/app/compat/vue-demi.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/compat/capi.mjs ($id_DFcXpE295m)
 // --------------------
@@ -3890,7 +3890,7 @@ Object.defineProperty(__vite_ssr_exports__, "del", { enumerable: true, configura
 // --------------------
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi3.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion.mjs ($id_v6gKR9sKcp)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient.mjs ($id_qteyuqsnYu)
@@ -3947,7 +3947,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapi3", { enumerable: true, co
 // --------------------
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi4.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion.mjs ($id_v6gKR9sKcp)
 // - /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiClient.mjs ($id_qteyuqsnYu)
@@ -4000,7 +4000,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStrapi4", { enumerable: true, co
 // --------------------
 // Request: /node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiGraphQL.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
 // - graphql ($id_rtMcEYgfIP)
@@ -4060,7 +4060,7 @@ import("graphql")
 // --------------------
 // Request: /node_modules/nuxt/dist/pages/runtime/composables.mjs
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // Dependencies: 
 
 // --------------------
@@ -4093,14 +4093,14 @@ __vite_ssr_exports__.default = "\n.bg-white[data-v-bc8852ab]{--tw-bg-opacity:1;b
 // Parents: 
 // - /node_modules/nuxt/dist/app/components/nuxt-error-page.vue ($id_jMbXP0vyaY)
 // Dependencies: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - vue ($id_VkOCJnUZrn)
 // - vue/server-renderer ($id_UyJffsox60)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=f37408fc&lang.css ($id_anXr5LNAH3)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_jCXbMMTuM4 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs");
+const $id_0C8riVu0Db = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs");
 
 
 const _sfc_main = {
@@ -4177,7 +4177,7 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_5__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_5__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-f37408fc"],['__file',"/home/flo/Work_Documents/test/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_5__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-f37408fc"],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"]]);
 }
 
 
@@ -4198,14 +4198,14 @@ __vite_ssr_exports__.default = "\n.bg-white[data-v-f37408fc]{--tw-bg-opacity:1;b
 // Parents: 
 // - /node_modules/nuxt/dist/app/components/nuxt-error-page.vue ($id_jMbXP0vyaY)
 // Dependencies: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs ($id_ge9ofgs0AY)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs ($id_l4Nx6orRAz)
 // - vue ($id_VkOCJnUZrn)
 // - vue/server-renderer ($id_UyJffsox60)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css ($id_qcoFgmhGJ5)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_sAgR9DOPS4 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs");
+const $id_elEbEK4m25 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs");
 
 
 const _sfc_main = {
@@ -4288,7 +4288,7 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_5__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_5__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-6b2d7187"],['__file',"/home/flo/Work_Documents/test/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_5__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',"data-v-6b2d7187"],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue"]]);
 }
 
 
@@ -4305,13 +4305,13 @@ __vite_ssr_exports__.default = "\n.bg-white[data-v-6b2d7187]{--tw-bg-opacity:1;b
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/app-component.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/app-component.mjs
 // Parents: 
-// - /home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry ($id_imcqq2Ug0v)
+// - /home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry ($id_X526qzCHcQ)
 // Dependencies: 
 // - /node_modules/nuxt/dist/pages/runtime/app.vue ($id_bGEBDyzLuq)
 // --------------------
-const $id_P7y9n4OFLy = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_qzpZ5bMlJF = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/pages/runtime/app.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.default }});;
@@ -4321,14 +4321,14 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, confi
 // --------------------
 // Request: /node_modules/nuxt/dist/pages/runtime/app.vue
 // Parents: 
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/app-component.mjs ($id_X3gUWCYYIz)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/app-component.mjs ($id_nxELoypgo8)
 // Dependencies: 
 // - /node_modules/nuxt/dist/app/components/layout.mjs ($id_OQA4gz7rLc)
 // - vue ($id_VkOCJnUZrn)
 // - vue/server-renderer ($id_UyJffsox60)
 // - /@id/__x00__plugin-vue:export-helper ($id_eFZ80lXORx)
 // --------------------
-const $id_OsqaQD25hY = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_5Ays0RLnO7 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/components/layout.mjs");
 
 const _sfc_main = {}
@@ -4366,7 +4366,7 @@ _sfc_main.setup = (props, ctx) => {
 }
 const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/__x00__plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_4__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/test/node_modules/nuxt/dist/pages/runtime/app.vue"]]);
+__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_4__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/pages/runtime/app.vue"]]);
 }
 
 
@@ -4378,16 +4378,16 @@ __vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_4__.default(_sfc_m
 // - vue ($id_VkOCJnUZrn)
 // - /node_modules/nuxt/dist/app/components/utils.mjs ($id_acUmhqj8VN)
 // - /node_modules/nuxt/dist/app/index.mjs ($id_NpJ0d20vMd)
-// - /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/layouts.mjs ($id_Rnw1uohNaG)
+// - /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/layouts.mjs ($id_UqMgsXHyfa)
 // --------------------
-const $id_23NTlEeqIE = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_oGzpI4gN0F = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/components/utils.mjs");
 
 const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/nuxt/dist/app/index.mjs");
 
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/layouts.mjs");
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/layouts.mjs");
 
 const defaultLayoutTransition = { name: "layout", mode: "out-in" };
 __vite_ssr_exports__.default = __vite_ssr_import_0__.defineComponent({
@@ -4414,13 +4414,13 @@ __vite_ssr_exports__.default = __vite_ssr_import_0__.defineComponent({
 
 
 // --------------------
-// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/layouts.mjs
+// Request: /@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/layouts.mjs
 // Parents: 
 // - /node_modules/nuxt/dist/app/components/layout.mjs ($id_OQA4gz7rLc)
 // Dependencies: 
 // - vue ($id_VkOCJnUZrn)
 // --------------------
-const $id_pKUTFCbLw4 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_ifQfE06AY0 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("vue");
 
 __vite_ssr_exports__.default = {};
@@ -4428,11 +4428,11 @@ __vite_ssr_exports__.default = {};
 
 
 const __modules__ = {
-  "/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry": $id_52C7auhiEo,
+  "/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry": $id_RjrqmozA7T,
   vue: $id_G33erDMZ5a,
   "@vue/runtime-dom": $id_9sriful2d8,
   ohmyfetch: $id_kLE5W6MKaY,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/paths.mjs": $id_9P4yIL1ChM,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/paths.mjs": $id_jYVB720M0N,
   ufo: $id_KJr7LehhrL,
   "/node_modules/nuxt/dist/app/index.mjs": $id_fgrt3UeQEL,
   "/node_modules/nuxt/dist/app/nuxt.mjs": $id_vtPBdtWTLQ,
@@ -4461,27 +4461,27 @@ const __modules__ = {
   "/node_modules/nuxt/dist/head/runtime/index.mjs": $id_DBzckdbLOm,
   "/node_modules/nuxt/dist/head/runtime/composables.mjs": $id_TG3cDPMBp5,
   "@vue/shared": $id_NOAOzpHkPB,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/css.mjs": $id_XhhNrlM6Jy,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/plugins/server.mjs": $id_Jw7bPEK54q,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/css.mjs": $id_7QP1cPKZk9,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/plugins/server.mjs": $id_oLk4UAt4Cp,
   "/node_modules/nuxt/dist/app/plugins/preload.server.mjs": $id_1SAEi7QN5N,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/components.plugin.mjs": $id_hyT9JOZJMT,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/components.plugin.mjs": $id_PEPUVnSYRO,
   "/node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin.mjs": $id_K61W5Ccsfu,
   "/node_modules/@vueuse/head/dist/index.mjs": $id_19kbcSkZ7c,
   defu: $id_q6X4BWspBy,
-  "/node_modules/nuxt/dist/head/runtime/plugin.mjs": $id_SzUtwquwto,
+  "/node_modules/nuxt/dist/head/runtime/plugin.mjs": $id_k4GW89mnC7,
   "/node_modules/nuxt/dist/head/runtime/components.mjs": $id_whABfudPpZ,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/meta.config.mjs": $id_ZEEplvQItC,
-  "/node_modules/nuxt/dist/pages/runtime/router.mjs": $id_Qi54zgDfXl,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/meta.config.mjs": $id_ARtyt21oad,
+  "/node_modules/nuxt/dist/pages/runtime/router.mjs": $id_soKT07ubtX,
   "/node_modules/nuxt/dist/pages/runtime/page.mjs": $id_idpAamdLF6,
   "/node_modules/nuxt/dist/pages/runtime/utils.mjs": $id_ZR0LUqwyer,
   "/node_modules/nuxt/dist/app/components/utils.mjs": $id_NgApSiB2xA,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/routes.mjs": $id_i2SFQ6naQq,
-  "/pages/index.vue?macro=true": $id_xNkMWozWnK,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/routes.mjs": $id_IapHYfncPW,
+  "/pages/index.vue?macro=true": $id_w7ydKUaW9U,
   "vue/server-renderer": $id_aRHphPzMpI,
   "/@id/__x00__plugin-vue:export-helper": $id_mHD6riC5ol,
-  "/pages/index.vue": $id_GBlfE82LFM,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/router.options.mjs": $id_PJkBqsNDva,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/middleware.mjs": $id_A1Os8YjnrK,
+  "/pages/index.vue": $id_XWLL4FY8gv,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/router.options.mjs": $id_Edk0ke7ys5,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/middleware.mjs": $id_cdXOK2DVKZ,
   "/node_modules/@nuxtjs/strapi/dist/runtime/strapi.plugin.mjs": $id_4vKAxNi7oo,
   "/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiAuth.mjs": $id_YTOdd4cSrW,
   "/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiToken.mjs": $id_SZTT7x1zDA,
@@ -4490,12 +4490,12 @@ const __modules__ = {
   qs: $id_9t95LfVMsa,
   "/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiUrl.mjs": $id_zztJaeAekw,
   "/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapiVersion.mjs": $id_ZU3uAPKSuU,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/root-component.mjs": $id_6JQWwsAnXU,
-  "/node_modules/nuxt/dist/app/components/nuxt-root.vue": $id_kq9SzRoOzi,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/error-component.mjs": $id_TtWYE2xRYX,
-  "/node_modules/nuxt/dist/app/components/nuxt-error-page.vue": $id_LJXCDpm5fb,
-  "/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": $id_6MsfuGg6k8,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/imports.mjs": $id_mKTBADzwdi,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/root-component.mjs": $id_aZolk7j4oV,
+  "/node_modules/nuxt/dist/app/components/nuxt-root.vue": $id_ycBX2alzjT,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/error-component.mjs": $id_Kddk0Yq4Oy,
+  "/node_modules/nuxt/dist/app/components/nuxt-error-page.vue": $id_1ayhZK0BHQ,
+  "/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": $id_D6GZ42wa5k,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/imports.mjs": $id_XMrHFNO4RS,
   "/node_modules/nuxt/dist/app/compat/vue-demi.mjs": $id_fVRhALlhiQ,
   "/node_modules/nuxt/dist/app/compat/capi.mjs": $id_XtvF5a66h7,
   "/node_modules/@nuxtjs/strapi/dist/runtime/composables/useStrapi3.mjs": $id_rfhKH6vB11,
@@ -4504,14 +4504,14 @@ const __modules__ = {
   graphql: $id_gIh8pDGIY6,
   "/node_modules/nuxt/dist/pages/runtime/composables.mjs": $id_NOV2xfmodt,
   "/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=bc8852ab&lang.css": $id_CLfCOP6xlD,
-  "/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": $id_jCXbMMTuM4,
+  "/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": $id_0C8riVu0Db,
   "/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=f37408fc&lang.css": $id_dk1fU78jzs,
-  "/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue": $id_sAgR9DOPS4,
+  "/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue": $id_elEbEK4m25,
   "/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css": $id_5TDAuzcAtD,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/app-component.mjs": $id_P7y9n4OFLy,
-  "/node_modules/nuxt/dist/pages/runtime/app.vue": $id_OsqaQD25hY,
-  "/node_modules/nuxt/dist/app/components/layout.mjs": $id_23NTlEeqIE,
-  "/@id/virtual:nuxt:/home/flo/Work_Documents/test/.nuxt/layouts.mjs": $id_pKUTFCbLw4
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/app-component.mjs": $id_qzpZ5bMlJF,
+  "/node_modules/nuxt/dist/pages/runtime/app.vue": $id_5Ays0RLnO7,
+  "/node_modules/nuxt/dist/app/components/layout.mjs": $id_oGzpI4gN0F,
+  "/@id/virtual:nuxt:/home/flo/Work_Documents/NuxtStrapi_Bug/.nuxt/layouts.mjs": $id_ifQfE06AY0
 }
 
 
@@ -4599,4 +4599,4 @@ async function __instantiateModule__(url, urlStack) {
 }
 
 
-export default await __ssrLoadModule__("/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry")
+export default await __ssrLoadModule__("/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry")

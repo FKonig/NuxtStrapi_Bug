@@ -22,9 +22,9 @@ export default {
     "file": "node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css",
     "resourceType": "style"
   },
-  "/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry": {
+  "/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry": {
     "isEntry": true,
-    "file": "/home/flo/Work_Documents/test/node_modules/nuxt/dist/app/entry",
+    "file": "/home/flo/Work_Documents/NuxtStrapi_Bug/node_modules/nuxt/dist/app/entry",
     "module": true,
     "resourceType": "script"
   }
